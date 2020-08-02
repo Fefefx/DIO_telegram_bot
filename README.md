@@ -28,6 +28,6 @@ O Bot será iniciado e ficará escutando quaisquer mensagens que sejam mandadas 
 
 O Bot deve devolver uma mensagem com dois links para vídeos do Youtube que sejam referentes ao treinamento da parte do corpo pedida, como na imagem abaixo:
 
-![Capa do Bot Telegram](https://firebasestorage.googleapis.com/v0/b/repository-c12c5.appspot.com/o/Resposta%20Bot%20Telegram.png?alt=media&token=972198d9-d5f3-4164-92f3-adc41be57e7a "Capa do Bot Telegram")
+<p style="text-align:center"><img src="https://firebasestorage.googleapis.com/v0/b/repository-c12c5.appspot.com/o/Resposta%20Bot%20Telegram.png?alt=media&token=972198d9-d5f3-4164-92f3-adc41be57e7a" height="360"></p>
 
 Para incrementar o projeto original foram adicionadas mais respostas no DialogFlow as requisições de treinos. Além disso, a saída de sugestões de vídeos foi melhorada, passando a exibir um vídeo por mensagem para facilitar a legibilidade do conteúdo sugerido.
