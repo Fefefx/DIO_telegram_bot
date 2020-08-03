@@ -12,7 +12,8 @@ bot.on('message', async function (msg) {
         if (dfResponse.intent === 'Treino específico') {
             responseText = await youtube.searchVideoURL(responseText, dfResponse.fields.corpo.stringValue).then(result => result);
             responseText.forEach(async function(msg){
-                await bot.sendMessage(chatId, msg);
+                if(msg)
+                    await bot.sendMessage(chatId, msg);
             });
         }else{
             bot.sendMessage(chatId, responseText);
