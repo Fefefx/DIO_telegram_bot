@@ -16,7 +16,7 @@ Para executar a aplicação acesse o diretório principal dela e instale as depe
 
 `npm install`
 
-Para executar o Bot rode o comando:
+Após isso, contate o administrador para obter a chave de acesso ao agente do DialogFlow. Mova a chave para o diretório da aplicação e execute o Bot com o seguinte comando:
 
 `node index.js`
 
