@@ -1,2 +1,5 @@
 #Dependências do node
 node_modules
+
+#Configurações privadas do DialogFLow
+DialogFlowConfigs.json
